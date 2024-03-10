@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: black;
+            }
+            h1 {
+                color: azure;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <h1>Hello World</h1>
+        <h1>Hello World</h1>
+    </body>
+</html>
