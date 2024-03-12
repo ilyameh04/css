@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .border {
+                background-color: lightskyblue;
+                border: 3px dashed yellowgreen;
+                color: white;
+                text-align: right;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="border">
+            <p>Hello world</p>
+            <p>Hello world</p>
+            <p>Hello world</p>
+        </div>
+    </body>
+</html>
