@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .com {
+                background-color: black;
+                text-align: center;
+                padding: 10px;
+                color: white;
+                border: 3px solid yellow;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="com">
+            <p>Hello world</p>
+            <p>Hello world</p>
+            <p>Hello world</p>
+            <p>Hello world</p>
+            <p>Hello world</p>
+        </div>
+    </body>
+</html>
